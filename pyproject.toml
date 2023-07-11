@@ -24,7 +24,7 @@ scipy = ">=1.11"
 numba = "^0.57.1"
 
 [tool.poetry.dev-dependencies]
-Pygments = ">=2.10.0"
+Pygments = ">=2.15.0"
 bandit = ">=1.7.4"
 black = ">=21.10b0"
 coverage = {extras = ["toml"], version = ">=6.2"}
