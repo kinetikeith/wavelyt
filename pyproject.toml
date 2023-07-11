@@ -17,7 +17,7 @@ Changelog = "https://github.com/kinetikeith/wavelyt/releases"
 
 [tool.poetry.dependencies]
 python = ">=3.9,<3.13"
-click = "8.0.1"
+click = "8.0.2"
 numpy = ">=1.21"
 xarray = ">=2023.6"
 scipy = ">=1.11"
@@ -51,6 +51,9 @@ myst-parser = {version = ">=0.16.1"}
 
 [tool.poetry.scripts]
 wavelyt = "wavelyt.__main__:main"
+
+[tool.poetry.group.dev.dependencies]
+safety = "2.3.5"
 
 [tool.coverage.paths]
 source = ["src", "*/site-packages"]
