@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/home/komp/projects",
+  "_template": "https://github.com/cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Kinetikeith",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 2 - Pre-Alpha",
+  "email": "kinetikeith@proton.me",
+  "friendly_name": "Wavelyt",
+  "github_user": "kinetikeith",
+  "license": "GPL-3.0",
+  "package_name": "wavelyt",
+  "project_name": "wavelyt",
+  "version": "0.0.0"
+}
