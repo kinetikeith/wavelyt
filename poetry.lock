@@ -1863,13 +1863,13 @@ test = ["covdefaults (>=2.3)", "coverage (>=7.2.7)", "coverage-enable-subprocess
 
 [[package]]
 name = "xarray"
-version = "2023.6.0"
+version = "2023.8.0"
 description = "N-D labeled arrays and datasets in Python"
 optional = false
 python-versions = ">=3.9"
 files = [
-    {file = "xarray-2023.6.0-py3-none-any.whl", hash = "sha256:bdd4c45511ab4e84f4249ea1030336db59b750968f25369d8e132d6d7ead7cc9"},
-    {file = "xarray-2023.6.0.tar.gz", hash = "sha256:267a231ee4efc0341ebbffc6d4ec60e4a66e4849c16e0305c03fcefeca77698c"},
+    {file = "xarray-2023.8.0-py3-none-any.whl", hash = "sha256:eb42b56aea2c7d5db2a7d0c33fb005b78eb5c4421eb747f2ced138c70b5c204e"},
+    {file = "xarray-2023.8.0.tar.gz", hash = "sha256:825c6d64202a731a4e49321edd1e9dfabf4be06802f1b8c8a3c00a3ebfc8cedf"},
 ]
 
 [package.dependencies]
